@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PINEAPPLE VOLLEYBALL",
+"productVersion": "0.1",
+"dataUrl": "VERSION 1.1.1.data.unityweb",
+"wasmCodeUrl": "VERSION 1.1.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "VERSION 1.1.1.wasm.framework.unityweb",
+"wasmSymbolsUrl": "VERSION 1.1.1.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
